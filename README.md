@@ -1,4 +1,4 @@
-# Artificial Neural Networks
+# Deep Neural Networks
 These are projects and assignments that I have done using vanilla-Deep Learning networks (without CNN / Sequence Models). These were an exploration of various libraries such as Numpy, Pytorch, Keras and basic Tensorflow
  Projects include:
  1. Model design using Numpy - Developing my own two-layer DNN from scratch on the MNIST dataset
