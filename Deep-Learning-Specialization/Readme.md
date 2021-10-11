@@ -10,7 +10,6 @@ By the end you’ll be able to:
 
 •	Use strategies for reducing errors in ML systems, understand complex ML settings, and apply end-to-end, transfer, and multi-task learning.
 
-
 This repo covers the programming assignments for the first three courses of the Specialization:
 1.	Neural Networks and Deep Learning
 2.	Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
